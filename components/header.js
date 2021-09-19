@@ -15,7 +15,7 @@ function header() {
         <HeaderItem title="HOME" Icon={HomeIcon} />
         <HeaderItem title="TRENDING" Icon={LightningBoltIcon} />
         <HeaderItem title="VERIFIED" Icon={BadgeCheckIcon} />
-        <HeaderItem title="COLLECTIONS" Icon={CollectionIcon} />
+        <HeaderItem title="COLLECTION" Icon={CollectionIcon} />
         <HeaderItem title="SEARCH" Icon={SearchIcon} />
         <HeaderItem title="ACCOUNT" Icon={UserIcon} />
       </div>
